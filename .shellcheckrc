@@ -1,0 +1,13 @@
+# https://github.com/koalaman/shellcheck/wiki/Optional
+# disable=all
+# disable=SC1000-SC9999
+disable=SC1071
+enable=add-default-case
+enable=avoid-nullary-conditions
+enable=check-extra-masked-returns
+enable=check-unassigned-uppercase
+enable=deprecate-which
+enable=quote-safe-variables
+enable=require-double-brackets
+enable=require-variable-braces
+external-sources=true

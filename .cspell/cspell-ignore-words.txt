@@ -1,0 +1,2 @@
+# Prevent suggesting these words
+chezmoi
